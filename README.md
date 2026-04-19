@@ -32,5 +32,7 @@ No local installation is required.
 2. Select your search type (Ingredient or Country) from the dropdown.
 3. Type your query (e.g., "Finland" or "Chicken") and hit the search icon.
 
+##Members-Regan,amrit,ahad,ratul.
+
 ---
 *Developed for the Semester Project - Submitted April 2026*
